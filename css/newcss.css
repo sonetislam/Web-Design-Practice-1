@@ -1,0 +1,39 @@
+.container-fluid{
+   background-color:  cyan;
+}
+.navbar{
+   
+    margin-left: 18px;
+    margin-right: 18px;
+    
+}
+.nav{
+   
+    margin-left: 20px;
+    margin-right:20px;
+    
+}
+.nav li{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 20px;
+    
+}
+
+.col-lg-12 p{
+    margin-left: 18px;
+    margin-right: 18px;
+}
+.col-lg-4 p{
+    margin-left: 20px;
+    margin-right:20px;
+}
+.col-sm-4{
+    font-size: 60px;
+   margin-left: 18px;
+    margin-right: 18px;
+}
+.form-horizontal{
+    margin-left: 0px;
+    margin-right: 18px;
+}
